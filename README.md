@@ -15,8 +15,6 @@ Using a subset of the CDC NHANES dataset (1,966 training rows, 312 test rows), t
 ├── Prediction_Model.ipynb   # Full pipeline notebook
 ├── train.csv                # Training data
 ├── test.csv                 # Test data
-├── sample_submission.csv    # Submission format
-├── submission.csv           # Final predictions
 └── README.md
 ```
 
